@@ -13,8 +13,6 @@ public class Fill2048 : MonoBehaviour
     private bool hasCombine;
 
     private Image myImage;
-
-    public static bool canSpawn;
     public void FillValueUpdate(int valueIn)
     {
         value = valueIn;

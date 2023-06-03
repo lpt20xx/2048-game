@@ -2238,22 +2238,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fillPrefab: {fileID: 575777680157877299, guid: ee0fa0d1ca09d42afbd2a332d77016c8, type: 3}
   allCells:
-  - {fileID: 4969648201579235349}
-  - {fileID: 1066696444}
-  - {fileID: 867536601}
+  - {fileID: 49404802}
   - {fileID: 294605883}
   - {fileID: 308368662}
-  - {fileID: 49404802}
-  - {fileID: 1675114529}
-  - {fileID: 1868400161}
   - {fileID: 628539094}
-  - {fileID: 1882337109}
-  - {fileID: 1436234323}
   - {fileID: 780963242}
-  - {fileID: 1579247137}
   - {fileID: 793856940}
-  - {fileID: 39794288}
+  - {fileID: 867536601}
+  - {fileID: 1066696444}
+  - {fileID: 1436234323}
+  - {fileID: 1579247137}
+  - {fileID: 1675114529}
   - {fileID: 1848888784}
+  - {fileID: 1868400161}
+  - {fileID: 1882337109}
+  - {fileID: 4969648201579235349}
+  - {fileID: 39794288}
   myScore: 0
   scoreDisplay: {fileID: 1992920347}
   gameOverPanel: {fileID: 790598197}
